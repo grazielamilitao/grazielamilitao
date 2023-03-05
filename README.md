@@ -1,7 +1,13 @@
 ## Olá! 
 Sou a Graziela, Dev. Backend/DevOps!
 
-<div style="display: inline_block"><br>
+<div align="center">
+  <a href="https://github.com/grazielamilitao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grazielamilitao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazielamilitao&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="Spring" height="50" width="90" src="https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png">
   <img align="center" alt="Quarkus" height="50" width="60" src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png">
