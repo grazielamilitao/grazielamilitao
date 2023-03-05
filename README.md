@@ -1,5 +1,5 @@
 ## Olá! 
-Sou Engenheira de Software Backend (estagiária) na equipe de DevOps da Vertigo!
+Sou estagiária Backend/DevOps na Vertigo!
 
 <div align="center">
   <a href="https://github.com/grazielamilitao">
