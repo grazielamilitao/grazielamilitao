@@ -1,6 +1,6 @@
 ## Olá! 
 Sou estagiária Backend/DevOps na Vertigo.
-<br>Atuo desenvolvendo Microsserviços Cloud Native e outras funções voltadas para aplicar a cultura DevOps na programação.
+<br>Atuo desenvolvendo Microsserviços Cloud Native e outras funções voltadas para aplicar a cultura DevOps na programação. Tenho Java como minha linguagem principal, mas aprendo/atuo com qualquer linguagem backend que me for solicitada.
 
 <div align="center">
   <a href="https://github.com/grazielamilitao">
