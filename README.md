@@ -1,5 +1,5 @@
 ## Olá! 
-Sou a Graziela, Dev. Backend/DevOps!
+Sou Engenheira de Software Backend (estagiária) na equipe de DevOps da Vertigo!
 
 <div align="center">
   <a href="https://github.com/grazielamilitao">
