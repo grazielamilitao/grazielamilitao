@@ -1,5 +1,6 @@
 ## Olá! 
 Sou estagiária Backend/DevOps na Vertigo!
+Atuo desenvolvendo Microsserviços Cloud Native e outras funções voltadas para aplicar a cultura DevOps na programação.
 
 <div align="center">
   <a href="https://github.com/grazielamilitao">
